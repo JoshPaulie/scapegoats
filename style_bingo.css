@@ -46,4 +46,5 @@ body {
 .tooltip:hover:before, .tooltip:hover:after {
   opacity: 1;
   visibility: visible;
+  transition: opacity .6s;
 }
