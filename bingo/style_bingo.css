@@ -1,17 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=Radio+Canada:wght@300&display=swap');
 
+:root{
+  --bg-color: #0D1F2D;
+  --text-color: #546A7B;
+}
 
 body {
   padding: 20px;
+  margin: 50px;
   font-family: 'Radio Canada', sans-serif;
-  background-color: #31313f;
-  color: #dbe3ac;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+  flex-wrap: wrap;
 }
 
 /* "Bingo Card"  */
-.bingo-card {}
-
-
+.bingo-card {
+  /* background-color: aliceblue; */
+  max-width: 20%;
+  max-height: auto;
+}
 
 th {
   padding: 2rem;
@@ -19,14 +30,33 @@ th {
 
 tbody td {
   text-align: center;
+  padding: 10px;
 }
 
 tbody td:hover {
-  box-shadow: 10px 5px 5px #242433;
+  transition: .2s;
+  transform: scale(110%);
 }
 
 
 tbody td img {
   width: 200;
   height: 200;
+}
+
+/* Tasks */
+.task-slot .task-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.task-slot .task-image img{
+  max-width: 50%;
+  height: auto;
+}
+
+.detailed-info{
+  max-width: 20%;
+  max-height: auto;
 }

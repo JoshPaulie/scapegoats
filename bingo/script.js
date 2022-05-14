@@ -1,3 +1,3 @@
 const test = document.getElementsByClassName("test");
 
-test.innerText = "Hello";
+console.log("hello")
