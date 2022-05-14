@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada:wght@300&display=swap');
+
+
+body {
+  padding: 20px;
+  font-family: 'Radio Canada', sans-serif;
+  background-color: #31313f;
+  color: #dbe3ac;
+}
+
+/* "Bingo Card"  */
+.bingo-card {}
+
+
+
+th {
+  padding: 2rem;
+}
+
+tbody td {
+  text-align: center;
+}
+
+tbody td:hover {
+  box-shadow: 10px 5px 5px #242433;
+}
+
+
+tbody td img {
+  width: 200;
+  height: 200;
+}
