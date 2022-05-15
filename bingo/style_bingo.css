@@ -25,7 +25,7 @@ body {
   display: flex;
   align-self: center;
   min-width: 30%;
-  /* max-width: 20%; */
+  max-width: 20%;
   border: 2px dotted rgb(96, 139, 168);
 }
 
