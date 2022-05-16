@@ -33,6 +33,8 @@ body {
 .task-info-container {
   display: flex;
   align-self: center;
+  min-width: 30rem;
+  max-width: 30%;
   border: 2px dotted rgb(96, 139, 168);
 }
 
