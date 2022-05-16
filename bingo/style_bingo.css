@@ -19,13 +19,14 @@ body {
   justify-content: space-evenly;
   align-items: center;
   flex-direction: column;
+  gap: 1rem;
 }
 
 .bingo-card-container {
   display: flex;
   align-self: center;
-  min-width: 30%;
-  max-width: 20%;
+  min-width: 30rem;
+  max-width: 30%;
   border: 2px dotted rgb(96, 139, 168);
 }
 
