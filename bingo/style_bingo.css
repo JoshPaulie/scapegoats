@@ -2,7 +2,7 @@
 
 :root{
   --bg-color: #0D1F2D;
-  --text-color: #546A7B;
+  --text-color: #8cafc9;
 }
 
 body {
@@ -34,7 +34,6 @@ body {
   .bingo-card-container{
     width: auto;
   }
-  
 }
 
 .task-info-container {
@@ -43,6 +42,8 @@ body {
   min-width: 30rem;
   max-width: 30%;
   border: 2px dotted rgb(96, 139, 168);
+  padding: 1rem;
+  box-sizing: border-box;
 }
 
  
@@ -66,6 +67,7 @@ tbody td {
 tbody td:hover {
   transition: .2s;
   transform: scale(110%);
+  color: rgb(221, 228, 130)
 }
 
 tbody td img {
