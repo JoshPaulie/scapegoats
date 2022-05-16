@@ -44,6 +44,8 @@ body {
   border: 2px dotted rgb(96, 139, 168);
   padding: 1rem;
   box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
 }
 
  
