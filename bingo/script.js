@@ -11,7 +11,21 @@ const task_descriptions = {
     "10QP": "Earn 10 additional Quest Points (as a team)",
     "50SlayerBossKC": "Get 50 <a href='https://oldschool.runescape.wiki/w/Boss#Slayer_bosses' target='_blank'>Slayer Boss</a> kills",
     "GnomeScarfDrop": "Get a <a href='https://oldschool.runescape.wiki/w/Gnome_scarf' target='_blank'>Gnome Scarf</a> drop",
-    "WildyBossDrop": "Get any unique <a href='https://oldschool.runescape.wiki/w/Wilderness#Bosses' target='_blank'>Wilderness Boss</a> drop",
+    "WildyBossDrop": "Get a pet or pre-roll item from any <a href='https://oldschool.runescape.wiki/w/Wilderness#Bosses' target='_blank'>Wilderness Boss</a> drop table.\
+    <br><br>A pre-roll item may be any of the following:\
+    <a href='https://oldschool.runescape.wiki/w/Tyrannical_ring' target='_blank'>Tyrannical ring</a>,\
+    <a href='https://oldschool.runescape.wiki/w/Ring_of_the_gods' target='_blank'>Ring of the gods</a>,\
+    <a href='https://oldschool.runescape.wiki/w/Treasonous_ring' target='_blank'>Treasonous ring</a>,\
+    <a href='https://oldschool.runescape.wiki/w/Dragon_2h_sword' target='_blank'>Dragon 2h sword</a>,\
+    <a href='https://oldschool.runescape.wiki/w/Dragon_pickaxe' target='_blank'>Dragon pickaxe</a>,\
+    <a href='https://oldschool.runescape.wiki/w/Odium_shard_1' target='_blank'>Odium shard 1</a>,\
+    <a href='https://oldschool.runescape.wiki/w/Malediction_shard_1' target='_blank'>Malediction shard 1</a>,\
+    <a href='https://oldschool.runescape.wiki/w/Odium_shard_2' target='_blank'>Odium shard 2</a>,\
+    <a href='https://oldschool.runescape.wiki/w/Malediction_shard_2' target='_blank'>Malediction shard 2</a>,\
+    <a href='https://oldschool.runescape.wiki/w/Odium_shard_3' target='_blank'>Odium shard 3</a>,\
+    or <a href='https://oldschool.runescape.wiki/w/Malediction_shard_3' target='_blank'>Malediction shard 3</a>\
+    "
+    ,
 
     "50VorkZulrah": "Get 50 <a href='https://oldschool.runescape.wiki/w/Vorkath' target='_blank'>Vorkath</a> and/or <a href='https://oldschool.runescape.wiki/w/Zulrah' target='_blank'>Zulrah</a> KC ",
     "CrawlingHand": "Get a <a href='https://oldschool.runescape.wiki/w/Crawling_hand_(item)' target='_blank'>crawling hand</a> drop",
