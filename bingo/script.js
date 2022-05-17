@@ -1,3 +1,5 @@
-const test = document.getElementsByClassName("test");
+const taskInfoBox = document.getElementById("task-info");
 
-console.log("hello")
+document.getElementById("500kLootKey").addEventListener("click", () => {
+	taskInfoBox.innerText = "500kLootKey was clicked!";
+});

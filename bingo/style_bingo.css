@@ -30,7 +30,7 @@ body {
   border: 2px dotted rgb(96, 139, 168);
 }
 
-@media (max-width: 480) {
+@media (min-width: 480) {
   .bingo-card-container{
     width: auto;
   }
@@ -41,7 +41,6 @@ body {
   align-self: center;
   min-width: 30rem;
   max-width: 30%;
-  border: 2px dotted rgb(96, 139, 168);
   padding: 1rem;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
