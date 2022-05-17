@@ -42,9 +42,9 @@ body {
 .task-info-container {
   display: flex;
   align-self: center;
-  min-width: 30rem;
   max-width: 30%;
   text-align: center;
+  font-size: larger;
 }
 
 a{

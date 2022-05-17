@@ -13,7 +13,7 @@ const task_descriptions = {
     "GnomeScarfDrop": "Get a <a href='https://oldschool.runescape.wiki/w/Gnome_scarf' target='_blank'>Gnome Scarf</a> drop",
     "WildyBossDrop": "Get any unique <a href='https://oldschool.runescape.wiki/w/Wilderness#Bosses' target='_blank'>Wilderness Boss</a> drop",
 
-    "50VulkZulrah": "Get 50 <a href='https://oldschool.runescape.wiki/w/Vorkath' target='_blank'>Vorkath</a> and/or <a href='https://oldschool.runescape.wiki/w/Zulrah' target='_blank'>Zulrah</a> KC ",
+    "50VorkZulrah": "Get 50 <a href='https://oldschool.runescape.wiki/w/Vorkath' target='_blank'>Vorkath</a> and/or <a href='https://oldschool.runescape.wiki/w/Zulrah' target='_blank'>Zulrah</a> KC ",
     "CrawlingHand": "Get a <a href='https://oldschool.runescape.wiki/w/Crawling_hand_(item)' target='_blank'>crawling hand</a> drop",
     "500kRunecraft": "Earn 500k Runecrafting Experience",
     "MedCaskTroll": "Be rewarded with a Med+ Casket that's worth LESS than 5k GP",
@@ -21,7 +21,9 @@ const task_descriptions = {
 
     "SkillingOutfit": "Complete a full <a href='https://oldschool.runescape.wiki/w/Skilling_equipment#List_of_outfits' target='_blank'>skilling outfit</a>", 
     "MudSkipperDrops": "Get both <a href='https://oldschool.runescape.wiki/w/Mudskipper_hat' target='_blank'>Mudskipper hat</a> and <a href='https://oldschool.runescape.wiki/w/Flippers' target='_blank'>flippers</a> drops",
-    "1stTimeFirecape": "First time Firecape",
+    "1stTimeFirecape": "Earn a Firecape\
+    <br><br>\
+    * or gamble 3 as a team",
     "PVMPet": "Earn any <a href='https://oldschool.runescape.wiki/w/Pet#Boss_pets' target='_blank'>PvM Pet</a>",
     "GWDrop": "Any unique drop from any of the  <a href='https://oldschool.runescape.wiki/w/Godwars' target='_blank'>God Wars Dungeon</a> bosses.\
     <br><br>\
