@@ -47,6 +47,10 @@ body {
   font-size: larger;
 }
 
+.footer{
+  text-align: center;
+}
+
 a{
   color: var(--text-color);
   text-decoration: underline dotted var(--red-accent) 2px;
