@@ -1,5 +1,5 @@
 const taskInfoBox = document.getElementById("task-info");
 
 document.getElementById("500kLootKey").addEventListener("click", () => {
-	taskInfoBox.innerText = "500kLootKey was clicked!";
+	taskInfoBox.innerHTML = "Earn a PK Loot Key worth 500k GP or more!";
 });
