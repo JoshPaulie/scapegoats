@@ -23,8 +23,7 @@ const task_descriptions = {
     <a href='https://oldschool.runescape.wiki/w/Odium_shard_2' target='_blank'>Odium shard 2</a>,\
     <a href='https://oldschool.runescape.wiki/w/Malediction_shard_2' target='_blank'>Malediction shard 2</a>,\
     <a href='https://oldschool.runescape.wiki/w/Odium_shard_3' target='_blank'>Odium shard 3</a>,\
-    or <a href='https://oldschool.runescape.wiki/w/Malediction_shard_3' target='_blank'>Malediction shard 3</a>\
-    "
+    or <a href='https://oldschool.runescape.wiki/w/Malediction_shard_3' target='_blank'>Malediction shard 3</a>"
     ,
 
     "50VorkZulrah": "Get 50 <a href='https://oldschool.runescape.wiki/w/Vorkath' target='_blank'>Vorkath</a> and/or <a href='https://oldschool.runescape.wiki/w/Zulrah' target='_blank'>Zulrah</a> KC ",
