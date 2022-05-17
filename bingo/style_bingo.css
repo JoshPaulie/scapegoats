@@ -1,8 +1,11 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Radio+Canada:wght@300&display=swap'); */
 
 :root{
-  --bg-color: #0D1F2D;
-  --text-color: #8cafc9;
+  --bg-color: #282C34;
+  --text-color: #ffff;
+  --yellow-accent: #E5C07B;
+  --red-accent: #e06c75;
+  --blue-accent: #61AfEF;
 }
 
 body {
@@ -27,7 +30,7 @@ body {
   align-self: center;
   min-width: 30rem;
   max-width: 30%;
-  border: 2px dotted rgb(96, 139, 168);
+  border: 2px dotted var(--blue-accent);
 }
 
 @media (min-width: 480) {
@@ -44,9 +47,9 @@ body {
   text-align: center;
 }
 
-.task-info-container a{
+a{
   color: var(--text-color);
-  text-decoration: underline dotted 2px;
+  text-decoration: underline dotted var(--red-accent) 2px;
 }
 
  
@@ -60,6 +63,7 @@ table
 th {
   padding: 2rem;
   font-size: larger;
+  color: var(--red-accent);
 }
 
 tbody td {
@@ -70,7 +74,7 @@ tbody td {
 tbody td:hover {
   transition: .2s;
   transform: scale(110%);
-  color: rgb(221, 228, 130)
+  color: var(--yellow-accent);
 }
 
 tbody td img {
