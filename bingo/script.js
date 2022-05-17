@@ -20,7 +20,7 @@ const task_descriptions = {
     "OborBryo": "Get a <a href='https://oldschool.runescape.wiki/w/Hill_giant_club' target='_blank'>Obor (Hill Giant) Club</a> or <a href='https://oldschool.runescape.wiki/w/Bryophyta%27s_essence' target='_blank'>Bryophyta's essence</a> drop",
 
     "SkillingOutfit": "Complete a full <a href='https://oldschool.runescape.wiki/w/Skilling_equipment#List_of_outfits' target='_blank'>skilling outfit</a>", 
-    "MudSkipperDrops": "Get a <a href='https://oldschool.runescape.wiki/w/Mudskipper_hat' target='_blank'>Mudskipper hat</a> and <a href='https://oldschool.runescape.wiki/w/Flippers' target='_blank'>flippers</a> drops",
+    "MudSkipperDrops": "Get both <a href='https://oldschool.runescape.wiki/w/Mudskipper_hat' target='_blank'>Mudskipper hat</a> and <a href='https://oldschool.runescape.wiki/w/Flippers' target='_blank'>flippers</a> drops",
     "1stTimeFirecape": "First time Firecape",
     "PVMPet": "Earn any <a href='https://oldschool.runescape.wiki/w/Pet#Boss_pets' target='_blank'>PvM Pet</a>",
     "GWDrop": "Any unique drop from any of the  <a href='https://oldschool.runescape.wiki/w/Godwars' target='_blank'>God Wars Dungeon</a> bosses.\
