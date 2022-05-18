@@ -35,9 +35,9 @@ body {
 
 /* Could not, for the life of me, get this to work */
 /* Okay fine, I didn't try that hard. */
-/* @media (min-width: 480) {
-  .bingo-card-container{
-    width: auto;
+/* @media only screen and (max-width: 480) {
+  body{
+    background-color: red;
   }
 } */
 
@@ -56,6 +56,12 @@ body {
 a{
   color: var(--text-color);
   text-decoration: underline dotted var(--red-accent) 2px;
+  transition: .2s;
+}
+
+a:hover{
+  transition: .2s;
+  color: var(--blue-accent);
 }
 
  
@@ -75,6 +81,7 @@ th {
 tbody td {
   text-align: center;
   padding: 1rem;
+  transition: .2s;
 }
 
 tbody td:hover {
