@@ -5,7 +5,7 @@ const task_descriptions = {
     "500kLootKey": "Earn a PK <a href='https://oldschool.runescape.wiki/w/Loot_key' target='_blank'>Loot Key</a> worth 500k GP or more",
     "10MedClue": "Complete 10 Medium+ <a href='https://oldschool.runescape.wiki/w/Clue_scroll' target='_blank'>Clue Scrolls</a>",
     "1mItemFlip": "<a href='https://oldschool.runescape.wiki/w/Merchanting' target='_blank'>Flip</a> 1 item on the Grand Exchange for a profit of 1m+",
-    "SkillingPet": "Earn any <a href='https://oldschool.runescape.wiki/w/Pet#Skilling_pets' target='_blank''>skilling pet</a>",
+    "CrabSet": "Get the <a href='https://oldschool.runescape.wiki/w/Crab_helmet' target='_blank''>crab hemlet</a> and the <a href='https://oldschool.runescape.wiki/w/Crab_claw' target='_blank''>crab claw</a>",
 
     "2CurvedBones": "Get 2 <a href='https://oldschool.runescape.wiki/w/Curved_bone' target='_blank'>curved bone</a> drop",
     "10QP": "Earn 10 additional Quest Points (as a team)",
