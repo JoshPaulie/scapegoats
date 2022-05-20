@@ -7,7 +7,7 @@ const task_descriptions = {
     "1mItemFlip": "<a href='https://oldschool.runescape.wiki/w/Merchanting' target='_blank'>Flip</a> 1 item on the Grand Exchange for a profit of 1m+",
     "CrabSet": "Get the <a href='https://oldschool.runescape.wiki/w/Crab_helmet' target='_blank''>crab hemlet</a> and the <a href='https://oldschool.runescape.wiki/w/Crab_claw' target='_blank''>crab claw</a>",
 
-    "2CurvedBones": "Get 2 <a href='https://oldschool.runescape.wiki/w/Curved_bone' target='_blank'>curved bone</a> drop",
+    "CurvedBone": "Get a <a href='https://oldschool.runescape.wiki/w/Curved_bone' target='_blank'>curved bone</a> drop",
     "10QP": "Earn 10 additional Quest Points (as a team)",
     "50SlayerBossKC": "Get 50 <a href='https://oldschool.runescape.wiki/w/Boss#Slayer_bosses' target='_blank'>Slayer Boss</a> kills",
     "GnomeScarfDrop": "Get a <a href='https://oldschool.runescape.wiki/w/Gnome_scarf' target='_blank'>Gnome Scarf</a> drop",
