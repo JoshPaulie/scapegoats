@@ -25,6 +25,19 @@ body {
   gap: 1rem;
 }
 
+.goat{
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  height: 100px;
+}
+
+/* Doesn't work :( */
+/* .goat img:hover{
+  scale: (200%);
+  transition: .2s;
+} */
+
 .bingo-card-container {
   display: flex;
   align-self: center;
