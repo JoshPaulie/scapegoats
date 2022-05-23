@@ -30,6 +30,7 @@ body {
   align-self: center;
   justify-content: center;
   height: 100px;
+  width: fit-content;
 }
 
 /* Doesn't work :( */
